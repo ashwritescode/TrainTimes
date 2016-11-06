@@ -1,0 +1,10 @@
+.jumbotron{
+	height: 500px;
+	background-image: url('http://eskipaper.com/images/train-track-wallpaper-hd-1.jpg');
+	background-size: 100%;
+	color:#fdfdfd !important;	
+}
+
+.jumbotron h1{
+	margin-top:100px;
+}
